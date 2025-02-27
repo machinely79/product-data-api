@@ -9,4 +9,8 @@ admin / admin123
 The API can be tested using cURL, Postman, or any HTTP client.
 
 
-📡 Testing API Endpoints
+# 📡 Testing API Endpoints
+
+**Home Route**
+Endpoint: GET /
+cURL Command:   curl -u mladen:1234 "http://127.0.0.1:8000/model?entityId=6479208"
