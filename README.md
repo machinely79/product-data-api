@@ -41,3 +41,8 @@ The API requires authentication for certain routes.
 - ```auth.py``` – Authentication logic
 - ```utils.py``` – Utility functions
 - ```data.json``` – Test dataset (contains only one product model for API demonstration purposes)
+
+# 🛠 Technologies Used  
+- **Python 3.10+**  
+- **FastAPI**  
+- **Uvicorn**  
