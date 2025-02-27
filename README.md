@@ -7,3 +7,6 @@ Test Users:
 admin / admin123
 
 The API can be tested using cURL, Postman, or any HTTP client.
+
+
+📡 Testing API Endpoints
