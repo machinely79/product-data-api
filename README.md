@@ -15,7 +15,7 @@ The API can be tested using cURL, Postman, or any HTTP client.
 ### ✅ Retrieve product model data  
 Fetch product information by entityId.  
 
-GET /model?entityId={id}
+  ```GET /model?entityId={id}```
 
 ### ✅ Fetch SKUs for a specific model
 Retrieve all SKUs linked to a given entityId.
