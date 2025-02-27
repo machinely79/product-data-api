@@ -20,17 +20,17 @@ Fetch product information by entityId.
 ### ✅ Fetch SKUs for a specific model
 Retrieve all SKUs linked to a given entityId.
 
-GET /models/{entityId}/skus
+```GET /models/{entityId}/skus```
 
 ### ✅ Retrieve prices by SKU
 Filter price details based on priceGroup and priceType.
 
-GET /models/{entityId}/skus/{skuID}/pricegroups
+```GET /models/{entityId}/skus/{skuID}/pricegroups```
 
 ### ✅ Filter prices by date range
 Search for price records valid between two dates.
 
-GET /models/{entityId}/skus/{skuID}/prices-by-date?start_time=YYYYMMDD&end_time=YYYYMMDD
+```GET /models/{entityId}/skus/{skuID}/prices-by-date?start_time=YYYYMMDD&end_time=YYYYMMDD```
 
 ### ✅ JWT Authentication
 The API requires authentication for certain routes.
