@@ -34,3 +34,10 @@ Search for price records valid between two dates.
 
 ### ✅ JWT Authentication
 The API requires authentication for certain routes.
+
+# 📂 Repository Structure
+
+  ```main.py``` – Main FastAPI server
+  ```auth.py``` – Authentication logic
+  ```utils.py``` – Utility functions
+  ```data.json``` – Test dataset (contains only one product model for API demonstration purposes)
