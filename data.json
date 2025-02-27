@@ -1,0 +1,3039 @@
+{
+  "entityId": "6479208",
+  "materialGroupEntityId": "6479",
+  "descriptionLong": "CATA LEA Da. Gilet",
+  "descriptionShort": "CATA LEA Da. Gilet",
+  "serialNumberMode": "NONE",
+  "vatHeadEntityId": "3",
+  "textAttributes": [
+    {
+      "key": "apolloFedas",
+      "value": "275402"
+    },
+    {
+      "key": "apolloCatManWgr",
+      "value": "1312422"
+    }
+  ],
+  "skus": [
+    {
+      "entityId": "647920801000",
+      "supplierSkuNumber": "34635",
+      "descriptionLong": "CATA LEA Da. Gilet",
+      "descriptionShort": "CATA LEA Da. Gilet",
+      "colorName": "",
+      "size": "000",
+      "codes": [
+        {
+          "code": "9020104760144",
+          "type": "EAN"
+        }
+      ],
+      "prices": [
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0017",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0017",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0017",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0019",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0019",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0019",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0020",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0020",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0020",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0021",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0021",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0021",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0022",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0022",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0022",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0023",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0023",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0023",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0024",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0024",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0024",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0026",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0026",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0026",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0027",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0027",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0027",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0028",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0028",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0028",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0031",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0031",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0031",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0033",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0033",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0033",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0035",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0035",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0035",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0037",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0037",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0037",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0038",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0038",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0038",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0039",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0039",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0039",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0040",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0040",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0040",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0044",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0044",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0044",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0046",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0046",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0046",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0047",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0047",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0047",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0049",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0049",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0049",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0050",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0050",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0050",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0052",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0052",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0052",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0053",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0053",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0053",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0054",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0054",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0054",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0055",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0055",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0055",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0057",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0057",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0057",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0060",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0060",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0060",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0061",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0061",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0061",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0062",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0062",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0062",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0063",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0063",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0063",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0064",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0064",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0064",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0067",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0067",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0067",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0068",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0068",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0068",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0069",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0069",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0069",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0078",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0078",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0078",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0079",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0079",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0079",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0081",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0081",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0081",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0082",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0082",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0082",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0083",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0083",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0083",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0084",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0084",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0084",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0087",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0087",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0087",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0088",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0088",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0088",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0089",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0089",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0089",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0094",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0094",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0094",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0101",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0101",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0101",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0103",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0103",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0103",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0104",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0104",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0104",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0105",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0105",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0105",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0107",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0107",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0107",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0109",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0109",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0109",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0112",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0112",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0112",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0113",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0113",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0113",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0114",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0114",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0114",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0115",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0115",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0115",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0116",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0116",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0116",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0126",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0126",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0126",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0128",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0128",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0128",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0140",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0140",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0140",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0141",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0141",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0141",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0142",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0142",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0142",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0144",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0144",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0144",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0148",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0148",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0148",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0149",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0149",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0149",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0162",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0162",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0162",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0163",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0163",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0163",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0164",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0164",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0164",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0165",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0165",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0165",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0194",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0194",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0194",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0195",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0195",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0195",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0198",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0198",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0198",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0230",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0230",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0230",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0243",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0243",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0243",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0245",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0245",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0245",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0246",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0246",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0246",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0249",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0249",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0249",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0258",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0258",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0258",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0261",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0261",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0261",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0262",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0262",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0262",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0263",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0263",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0263",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0264",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0264",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0264",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0278",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0278",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0278",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0279",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0279",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0279",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0303",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0303",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0303",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0304",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0304",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0304",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0305",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0305",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0305",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0310",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0310",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0310",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0311",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0311",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0311",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0320",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0320",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0320",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0321",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0321",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0321",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0330",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0330",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0330",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0363",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0363",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0363",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0365",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0365",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0365",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0601",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0601",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0601",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0778",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0778",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "0778",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2121",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2121",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2121",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2145",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2145",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2145",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2146",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2146",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2146",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2147",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2147",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2147",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2160",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2160",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2160",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2161",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2161",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2161",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2162",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2162",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2162",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2163",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2163",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2163",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2164",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2164",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2164",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2166",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2166",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2166",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2205",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2205",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2205",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2208",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2208",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2208",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2230",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2230",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2230",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2235",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2235",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2235",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2266",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2266",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2266",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2285",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2285",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2285",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20221127T00:00:00.000+01:00",
+          "priceGroup": "2286",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20221127T00:00:00.000+01:00",
+          "priceGroup": "2286",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20221127T00:00:00.000+01:00",
+          "priceGroup": "2286",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2290",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2290",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2290",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2291",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2291",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2291",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2292",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2292",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2292",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2293",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2293",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2293",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2306",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2306",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2306",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2307",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2307",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2307",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2340",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2340",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2340",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2420",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2420",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2420",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2421",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2421",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2421",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2422",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2422",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2422",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2480",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2480",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2480",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2482",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2482",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2482",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2507",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2507",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2507",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2525",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2525",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2525",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2540",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2540",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2540",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2541",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2541",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2541",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2542",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2542",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2542",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2547",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2547",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2547",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2548",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2548",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2548",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2549",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2549",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2549",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2550",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2550",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "2550",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3007",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3007",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3007",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3009",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3009",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3009",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3011",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3011",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3011",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3012",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3012",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3012",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3041",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3041",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3041",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3087",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3087",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3087",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3088",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3088",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3088",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3089",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3089",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3089",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3205",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3205",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "3205",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "5199",
+          "priceType": "2",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "5199",
+          "priceType": "3",
+          "price": "79.99",
+          "priceUnit": "EUR"
+        },
+        {
+          "validFrom": "20220924T00:00:00.000+01:00",
+          "priceGroup": "5199",
+          "priceType": "4",
+          "price": "0.00",
+          "priceUnit": "EUR"
+        }
+      ]
+    }
+  ]
+}
