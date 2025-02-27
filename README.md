@@ -4,7 +4,7 @@ Product Data Service API is a **FastAPI** application designed to fetch product 
 
 It uses Basic Authentication, so users must log in with a username and password:
 
-Test Users:
+Test User:
 ```admin``` / ```admin123```
 
 The API can be tested using cURL, Postman, or any HTTP client.
